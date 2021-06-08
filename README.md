@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuraslan
-- 👀 I’m interested in computer vision with neural networks
-- 🌱 I’m currently learning computer vision methods
+- 👀 I’m interested in Machine Learning methods
+
 
 
 <!---
